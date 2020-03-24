@@ -1,0 +1,8 @@
+# System specific files:
+.DS_Store
+
+# IDE specific files:
+.idea/
+*.iml
+*.swp
+.vscode
